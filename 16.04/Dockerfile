@@ -22,6 +22,7 @@ RUN \
   git \
   openjdk-8-jdk \
   sbt \
+  sed \
   unzip \
   && rm -rf /var/lib/apt/lists/*
 
